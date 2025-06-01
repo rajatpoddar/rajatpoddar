@@ -50,8 +50,6 @@ Just tell me what you need — I'll build it for you.
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rajatpoddar&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajatpoddar&layout=compact&theme=tokyonight)
 
-> 📝 Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username above ⬆️
-
 ---
 
 Thanks for visiting! Let’s build something awesome together.
