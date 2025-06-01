@@ -15,7 +15,7 @@
 - 🎬 [**Jelly**](https://jelly.cabelwala.com) – Watch the latest movies online  
 - 🍔 **Hungers Cart** – Android-based food delivery application  
 - 🛠️ [**Daily Tools**](https://tools.palojori.in) – Simple but useful tools for everyday use  
-- 💰 [**Pocket Budget**](https://pocketbdgt.com) – Budget tracker for income, expenses, and savings goals  
+- 💰 [**Pocket Budget**](https://pocketbdgt.fun) – Budget tracker for income, expenses, and savings goals  
 
 ---
 
