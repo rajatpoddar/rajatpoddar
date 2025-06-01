@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rajatpoddar/Rajatpoddar/main/A_graphic_GitHub_profile_README_header_image_for_R.png" alt="Rajat Poddar Banner" />
+  <img src="GitHub-Profile-Banner.PNG" alt="Rajat Poddar Banner" />
 </p>
 
 # 👋 Hi, I'm Rajat Poddar – Full-Stack Web & App Developer
