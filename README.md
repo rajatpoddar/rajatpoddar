@@ -1,6 +1,6 @@
 <p align="center">
   <img src="GitHub-Profile-Banner.PNG" alt="Rajat Poddar Banner" />
-</p>
+</p> 
 
 # 👋 Hi, I'm Rajat Poddar – Full-Stack Web & App Developer
 
