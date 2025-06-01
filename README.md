@@ -1,6 +1,10 @@
-# 👋 Hi, I'm a Full-Stack Web & App Developer
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rajatpoddar/Rajatpoddar/main/A_graphic_GitHub_profile_README_header_image_for_R.png" alt="Rajat Poddar Banner" />
+</p>
 
-🚀 Turning your ideas into working products – from concept to deployment.
+# 👋 Hi, I'm Rajat Poddar – Full-Stack Web & App Developer
+
+🚀 I turn your ideas into live, scalable products – from concept to deployment.
 
 ---
 
@@ -18,9 +22,9 @@
 ## 💡 Let's Build Your Idea
 
 If you have an app or website idea, I can bring it to life.  
-Just tell me what you need — I'll build it for you.
+Just tell me what you need — I'll handle the rest.
 
-📱 **Contact me on WhatsApp**: [Share your Idea here](https://wa.me/917250580175)
+📬 [**💡 Share your Idea here**](https://wa.me/917250580175)
 
 ---
 
@@ -36,7 +40,7 @@ Just tell me what you need — I'll build it for you.
 
 ---
 
-## 🏆 Fake But Fun Awards
+## 🏆 Developer Highlights
 
 🏅 **Fastest Debugger of the Year – 2024**  
 🥇 **Bug Whisperer Award – 2023**  
@@ -47,9 +51,10 @@ Just tell me what you need — I'll build it for you.
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rajatpoddar&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajatpoddar&layout=compact&theme=tokyonight)
+![Rajat Poddar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajatpoddar&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajatpoddar&layout=compact&theme=tokyonight)
 
 ---
 
-Thanks for visiting! Let’s build something awesome together.
+Thanks for visiting!  
+Let’s build something awesome together. 🚀
