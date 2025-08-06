@@ -11,8 +11,7 @@
 ## 🛠️ Projects I've Built
 
 
-- 🤖 [**NREGA_Bot**]
-(https://nregabot.com) - The ultimate tool to automate your repetitive NREGA portal tasks
+- 🤖 [**NREGA_Bot**](https://nregabot.com) - The ultimate tool to automate your repetitive NREGA portal tasks
 - 🌊 [**AQUAJAL**](https://www.aquajal.com) – Water jar supply business app with booking, delivery & stock management  
 - 🏗️ [**NREGA Tools**](https://nrega.palojori.in) – Smart bookmarks & utilities for NREGA operators  
 - 🎬 [**Jelly**](https://jelly.cabelwala.com) – Watch the latest movies online  
