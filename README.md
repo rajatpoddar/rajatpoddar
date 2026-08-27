@@ -106,10 +106,40 @@ fun_fact: "Great at building things before you even say it."
 
 ## 🏆 Developer Highlights
 
-🏅 <b>Fastest Debugger of the Year – 2024</b><br/>
-🥇 <b>Bug Whisperer Award – 2023</b><br/>
-🎯 <b>“Built It Before You Said It” Trophy – 2022</b><br/>
-🧪 <b>Code Alchemist Certification – 2021</b>
+<p align="center">
+  <img src="https://img.shields.io/badge/Recognition-4%20x%20Developer-181717?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%" style="border:1px solid #30363d; border-radius:12px; padding:16px; background:#161b22">
+      <div style="font-size:34px">🚀</div>
+      <b>Fastest Debugger</b><br/>
+      <sub>Solved production bugs at record speed</sub><br/>
+      <img src="https://img.shields.io/badge/Year-2024-3DA9FC?style=flat&logo=calendly&logoColor=white" />
+    </td>
+    <td align="center" width="330px" style="border:1px solid #30363d; border-radius:12px; padding:16px; background:#161b22">
+      <div style="font-size:34px">🐛</div>
+      <b>Bug Whisperer Award</b><br/>
+      <sub>Mastered the art of crushing bugs</sub><br/>
+      <img src="https://img.shields.io/badge/Year-2023-emerald?style=flat" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="330px" style="border:1px solid #30363d; border-radius:12px; padding:16px; background:#161b22">
+      <div style="font-size:34px">🎯</div>
+      <b>Built It Before You Said It</b><br/>
+      <sub>Winning product instincts on demand</sub><br/>
+      <img src="https://img.shields.io/badge/Year-2022-gold?style=flat" />
+    </td>
+    <td align="center" width="330px" style="border:1px solid #30363d; border-radius:12px; padding:16px; background:#161b22">
+      <div style="font-size:34px">🧪</div>
+      <b>Code Alchemist Certification</b><br/>
+      <sub>Turning rough ideas into working apps</sub><br/>
+      <img src="https://img.shields.io/badge/Certified-2021-blue?style=flat" />
+    </td>
+  </tr>
+</table>
 
 ---
 
