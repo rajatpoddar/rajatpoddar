@@ -107,36 +107,36 @@ fun_fact: "Great at building things before you even say it."
 ## 🏆 Developer Highlights
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Recognition-4%20x%20Developer-181717?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Agent-Driven%20Developer-Top%20Tier-8a2be2?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 <table align="center">
   <tr>
     <td align="center" width="50%" style="border:1px solid #30363d; border-radius:12px; padding:16px; background:#161b22">
-      <div style="font-size:34px">🚀</div>
-      <b>Fastest Debugger</b><br/>
-      <sub>Solved production bugs at record speed</sub><br/>
-      <img src="https://img.shields.io/badge/Year-2024-3DA9FC?style=flat&logo=calendly&logoColor=white" />
+      <div style="font-size:34px">🤖</div>
+      <b>AI Agent-Driven Developer</b><br/>
+      <sub>Builds with top AI models &amp; coding agents to ship faster</sub><br/>
+      <img src="https://img.shields.io/badge/AI%20Workflows-5x%20Faster-8a2be2?style=flat&logo=openai&logoColor=white" />
     </td>
     <td align="center" width="330px" style="border:1px solid #30363d; border-radius:12px; padding:16px; background:#161b22">
-      <div style="font-size:34px">🐛</div>
-      <b>Bug Whisperer Award</b><br/>
-      <sub>Mastered the art of crushing bugs</sub><br/>
-      <img src="https://img.shields.io/badge/Year-2023-emerald?style=flat" />
+      <div style="font-size:34px">🚀</div>
+      <b>Production-Grade Shipping</b><br/>
+      <sub>Live products with 200+ active users</sub><br/>
+      <img src="https://img.shields.io/badge/In%20Production-200%2B%20Users-31a851?style=flat&logo=rocket&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td align="center" width="330px" style="border:1px solid #30363d; border-radius:12px; padding:16px; background:#161b22">
-      <div style="font-size:34px">🎯</div>
-      <b>Built It Before You Said It</b><br/>
-      <sub>Winning product instincts on demand</sub><br/>
-      <img src="https://img.shields.io/badge/Year-2022-gold?style=flat" />
+      <div style="font-size:34px">⚡</div>
+      <b>Automation Specialist</b><br/>
+      <sub>Tools that save thousands of manual hours</sub><br/>
+      <img src="https://img.shields.io/badge/Automation-10%2B%20Products-3DA9FC?style=flat&logo=robot&logoColor=white" />
     </td>
     <td align="center" width="330px" style="border:1px solid #30363d; border-radius:12px; padding:16px; background:#161b22">
-      <div style="font-size:34px">🧪</div>
-      <b>Code Alchemist Certification</b><br/>
-      <sub>Turning rough ideas into working apps</sub><br/>
-      <img src="https://img.shields.io/badge/Certified-2021-blue?style=flat" />
+      <div style="font-size:34px">🏢</div>
+      <b>Founder</b><br/>
+      <sub>PublicStack — high-velocity software studio</sub><br/>
+      <img src="https://img.shields.io/badge/Studio-PublicStack-0e76a8?style=flat&logo=rocket&logoColor=white" />
     </td>
   </tr>
 </table>
