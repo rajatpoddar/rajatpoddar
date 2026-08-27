@@ -92,16 +92,14 @@ fun_fact: "Great at building things before you even say it."
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajatpoddar&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajatpoddar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="langs" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajatpoddar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajatpoddar&theme=tokyonight&hide_border=true" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=rajatpoddar&theme=tokyonight&no-bg=true&no-frame=true&row=2&column=4" alt="trophies" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Frajatpoddar&query=followers&style=for-the-badge&label=Followers&color=0e75b6&logo=github" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Frajatpoddar&query=public_repos&style=for-the-badge&label=Public%20Repos&color=31a851&logo=github" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Frajatpoddar&query=public_gists&style=for-the-badge&label=Public%20Gists&color=7952b3&logo=github" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Frajatpoddar&query=following&style=for-the-badge&label=Following&color=181717&logo=github" />
 </p>
 
 ---
@@ -136,6 +134,4 @@ fun_fact: "Great at building things before you even say it."
 
 <p align="center">
   Thanks for visiting! &nbsp;Let’s build something awesome together. 🚀
-  <br/>
-  <img src="https://profile-counter.glitch.me/rajatpoddar/count.svg" alt="visitor counter" />
 </p>
