@@ -65,7 +65,7 @@ fun_fact: "Great at building things before you even say it."
     <td align="center" width="50%">
       <b>🤖 NREGA Bot</b><br/>
       <sub>Automate repetitive NREGA portal tasks.</sub><br/>
-      <a href="https://nregabot.com"><img src="https://img.shields.io/badge/Visit-181717?style=for-the-badge&logo=link&logoColor=white"/></a>
+      <a href="https://nregabot.com"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20Visit-Live%20Site-181717?style=for-the-badge"/></a>
     </td>
     <td align="center" width="50%">
       <b>🎬 Botflix</b><br/>
@@ -107,7 +107,7 @@ fun_fact: "Great at building things before you even say it."
 ## 🏆 Developer Highlights
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20Agent-Driven%20Developer-Top%20Tier-8a2be2?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Agent--Driven%20Developer-Top%20Tier-8a2be2?style=for-the-badge&logo=githubcopilot&logoColor=white" />
 </p>
 
 <table align="center">
@@ -116,7 +116,7 @@ fun_fact: "Great at building things before you even say it."
       <div style="font-size:34px">🤖</div>
       <b>AI Agent-Driven Developer</b><br/>
       <sub>Builds with top AI models &amp; coding agents to ship faster</sub><br/>
-      <img src="https://img.shields.io/badge/AI%20Workflows-5x%20Faster-8a2be2?style=flat&logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/AI%20Workflows-5x%20Faster-8a2be2?style=flat&logo=claude&logoColor=white" />
     </td>
     <td align="center" width="330px" style="border:1px solid #30363d; border-radius:12px; padding:16px; background:#161b22">
       <div style="font-size:34px">🚀</div>
@@ -130,7 +130,7 @@ fun_fact: "Great at building things before you even say it."
       <div style="font-size:34px">⚡</div>
       <b>Automation Specialist</b><br/>
       <sub>Tools that save thousands of manual hours</sub><br/>
-      <img src="https://img.shields.io/badge/Automation-10%2B%20Products-3DA9FC?style=flat&logo=robot&logoColor=white" />
+      <img src="https://img.shields.io/badge/Automation-10%2B%20Products-3DA9FC?style=flat&logo=n8n&logoColor=white" />
     </td>
     <td align="center" width="330px" style="border:1px solid #30363d; border-radius:12px; padding:16px; background:#161b22">
       <div style="font-size:34px">🏢</div>
@@ -153,7 +153,7 @@ fun_fact: "Great at building things before you even say it."
     <img src="https://img.shields.io/badge/Studio-PublicStack-0e76a8?style=for-the-badge&logo=rocket&logoColor=white" />
   </a>
   <a href="https://www.nregabot.com">
-    <img src="https://img.shields.io/badge/Product-NREGA_Bot-3b82fc?style=for-the-badge&logo=internet&logoColor=white" />
+    <img src="https://img.shields.io/badge/Product-NREGA__Bot-3b82fc?style=for-the-badge&logo=python&logoColor=white" />
   </a>
   <a href="https://wa.me/917250580175">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
