@@ -63,26 +63,26 @@ fun_fact: "Great at building things before you even say it."
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <b>🤖 NREGA_Bot</b><br/>
+      <b>🤖 NREGA Bot</b><br/>
       <sub>Automate repetitive NREGA portal tasks.</sub><br/>
       <a href="https://nregabot.com"><img src="https://img.shields.io/badge/Visit-181717?style=for-the-badge&logo=link&logoColor=white"/></a>
     </td>
     <td align="center" width="50%">
-      <b>🏦 NREGA Tools</b><br/>
-      <sub>Smart utilities for NREGA operators.</sub><br/>
-      <a href="https://nrega.palojori.in"><img src="https://img.shields.io/badge/Visit-181717?style=for-the-badge&logo=link&logoColor=white"/></a>
+      <b>🎬 Botflix</b><br/>
+      <sub>Netflix-style streaming UI for your personal server.</sub><br/>
+      <a href="https://github.com/rajatpoddar/botflix"><img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <b>🌊 AQUAJAL</b><br/>
-      <sub>Water jar business: booking, delivery & stock.</sub><br/>
-      <a href="https://www.aquajal.com"><img src="https://img.shields.io/badge/Visit-181717?style=for-the-badge&logo=link&logoColor=white"/></a>
+      <b>✅ Habit Flow</b><br/>
+      <sub>Build &amp; track your daily habits.</sub><br/>
+      <a href="https://github.com/rajatpoddar/HabitFlow"><img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
     </td>
     <td align="center">
-      <b>🎬 Jelly</b><br/>
-      <sub>Watch the latest movies online.</sub><br/>
-      <a href="https://jelly.cabelwala.com"><img src="https://img.shields.io/badge/Visit-181717?style=for-the-badge&logo=link&logoColor=white"/></a>
+      <b>🥁 Beat Box</b><br/>
+      <sub>Groovy audio / beats experience.</sub><br/>
+      <a href="https://github.com/rajatpoddar/Beat-Box"><img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
     </td>
   </tr>
 </table>
