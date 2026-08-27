@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="GitHub-Profile-Banner.PNG" alt="Rajat Poddar Banner" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajatpoddar/rajatpoddar/main/banner-dark.svg" />
+  <img src="https://raw.githubusercontent.com/rajatpoddar/rajatpoddar/main/banner-light.svg" alt="Rajat Poddar — Full-Stack Developer" width="100%" />
+</picture>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rajatpoddar&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
@@ -11,52 +12,50 @@
 <h1 align="center">👋 Namaste! I'm Rajat Poddar</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=620&lines=Full-Stack+Web+%26+App+Developer;From+Concept+to+Live+Scalable+Products;Automation+%7C+SaaS+%7C+Android+%7C+Web&height=80" alt="Typing SVG" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=620&lines=Full-Stack+Web+%26+App+Developer;From+Concept+to+Live+Scalable+Products;Automation+%7C+SaaS+%7C+Android+%7C+Web&height=80" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=24292F&center=true&vCenter=true&width=620&lines=Full-Stack+Web+%26+App+Developer;From+Concept+to+Live+Scalable+Products;Automation+%7C+SaaS+%7C+Android+%7C+Web&height=80" alt="Typing SVG" />
+  </picture>
 </p>
 
-<p align="center"><b>🚀 I turn your ideas into live, scalable products – from concept to deployment.</b></p>
+<p align="center"><b>🚀 I turn your ideas into live, scalable products — from concept to deployment.</b></p>
+<p align="center">🌐 Web &amp; Mobile Apps &nbsp;·&nbsp; 🤖 Automation &amp; AI Agents &nbsp;·&nbsp; ☁️ SaaS Products &nbsp;·&nbsp; 🔌 API Integrations</p>
 
 ---
 
-## 📖 About Me
+## 🧰 Tech Stack — One Glance
 
-```yaml
-name: Rajat Poddar
-role: Full-Stack Web & App Developer
-location: Palojori, Deoghar, Jharkhand (India)
-based_at: Poddar Enterprises
+**🗣️ Languages** &nbsp;
 
-focus: [
-    "Build. Ship. Scale.",
-    "Automation tools that save hours every day",
-    "SaaS products with real users in production",
-    "Mobile & Web apps that people actually use"
-]
-
-fun_fact: "Great at building things before you even say it."
-```
-
----
-
-## 🧰 Languages & Tech Stack
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**⚛️ Frameworks & Runtime** &nbsp;
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+
+**☁️ Cloud, DevOps & Testing** &nbsp;
+
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
+**🤖 AI Toolkit — Daily Drivers** &nbsp;
+
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
 ---
+
 
 ## 🛠️ Featured Projects
 
@@ -101,6 +100,26 @@ fun_fact: "Great at building things before you even say it."
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Frajatpoddar&query=public_gists&style=for-the-badge&label=Public%20Gists&color=7952b3&logo=github" />
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Frajatpoddar&query=following&style=for-the-badge&label=Following&color=181717&logo=github" />
 </p>
+
+---
+
+## 📖 About Me
+
+```yaml
+name: Rajat Poddar
+role: Full-Stack Web & App Developer
+location: Palojori, Deoghar, Jharkhand (India)
+based_at: Poddar Enterprises
+
+focus: [
+    "Build. Ship. Scale.",
+    "Automation tools that save hours every day",
+    "SaaS products with real users in production",
+    "Mobile & Web apps that people actually use"
+]
+
+fun_fact: "Great at building things before you even say it."
+```
 
 ---
 
