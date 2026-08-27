@@ -149,12 +149,22 @@ fun_fact: "Great at building things before you even say it."
   <a href="https://github.com/rajatpoddar">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://publicstack.in">
+    <img src="https://img.shields.io/badge/Studio-PublicStack-0e76a8?style=for-the-badge&logo=rocket&logoColor=white" />
+  </a>
   <a href="https://www.nregabot.com">
-    <img src="https://img.shields.io/badge/Website-nregabot.com-3b82fc?style=for-the-badge&logo=internet&logoColor=white" />
+    <img src="https://img.shields.io/badge/Product-NREGA_Bot-3b82fc?style=for-the-badge&logo=internet&logoColor=white" />
   </a>
   <a href="https://wa.me/917250580175">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
+  <a href="mailto:hello@publicstack.in">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  🚀 <b>PublicStack</b> — High-Velocity Software Studio · Custom SaaS · Web &amp; Mobile Apps · Automation &amp; AI Agents — delivered in days, not months.
 </p>
 
 ---
